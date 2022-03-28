@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2? family= Montserrat & family= Raleway & famille= Roboto+Dalle:wght@100;400;500 &family= Shrikhand & display=swap");
+@import url("https://fonts.googleapis.com/css2? family= Montserrat & family= Raleway & family= Roboto+Slab:wght@100;400 & family= Shrikhand & display=swap");
+*,
+::before,
+::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+header {
+  font-family: "Shrikhand", cursive;
+  text-align: center;
+  -webkit-box-shadow: 0 3px 3px 1px grey;
+          box-shadow: 0 3px 3px 1px grey;
+  padding: 0.3rem;
+}
+
+body {
+  margin: 0;
+}
+/*# sourceMappingURL=style.css.map */
